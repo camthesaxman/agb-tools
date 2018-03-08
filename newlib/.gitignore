@@ -1,0 +1,17 @@
+*.o
+*.i
+arm/libcfunc.s
+arm/syscalls.s
+ctype/*.s
+errno/*.s
+locale/*.s
+math/*.s
+misc/*.s
+reent/*.s
+signal/*.s
+stdio/*.s
+stdlib/*.s
+string/*.s
+syscalls/*.s
+time/*.s
+libc.a
